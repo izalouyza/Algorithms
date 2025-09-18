@@ -2,6 +2,8 @@
 
 Repositório dedicado às disciplinas **Algoritmos (PEX1236)** e **Laboratório de Algoritmos (PEX1237)**, contendo exemplos e resoluções de listas de exercícios.
 
+![Linguagem](https://img.shields.io/badge/linguagem-C-blue)
+![Último commit](https://img.shields.io/github/last-commit/izalouyza/Algorithms)
 ---
 
 ## 📌 1. Organização do Repositório
