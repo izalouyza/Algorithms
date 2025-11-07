@@ -3,7 +3,7 @@
 Repositório dedicado às disciplinas **Algoritmos (PEX1236)** e **Laboratório de Algoritmos (PEX1237)**, ministradas pela professora **Laysa Mabel de Oliveira Fontes**, contendo exemplos e resoluções de listas de exercícios.
 
 ![Linguagem](https://img.shields.io/badge/Linguagem-C-blue)
-![Ambiente](https://img.shields.io/badge/Ambiente-VSCode_&_DevC++-brightgreen)
+![Ambiente](https://img.shields.io/badge/Ambiente-VSCode_&_DevC++-blue)
 ![Último commit](https://img.shields.io/github/last-commit/izalouyza/Algorithms)
 
 ---
