@@ -2,11 +2,13 @@
 
 Repositório dedicado às disciplinas **Algoritmos (PEX1236)** e **Laboratório de Algoritmos (PEX1237)**, contendo exemplos e resoluções de listas de exercícios.
 
-![Linguagem](https://img.shields.io/badge/linguagem-C-blue)
+![Linguagem](https://img.shields.io/badge/Linguagem-C-blue)
+![Ambiente](https://img.shields.io/badge/Ambiente-VSCode_&_DevC++-brightgreen)
 ![Último commit](https://img.shields.io/github/last-commit/izalouyza/Algorithms)
+
 ---
 
-## 📌 1. Organização do Repositório
+## Organização do Repositório
 O repositório está organizado em três diretórios principais, cada um abordando conceitos fundamentais da disciplina:
 
 - **Arrays**: contém exemplos e exercícios relacionados a manipulação de arrays.
@@ -15,7 +17,7 @@ O repositório está organizado em três diretórios principais, cada um abordan
 
 ---
 
-### 📚 Unidades de Estudo
+### Unidades de Estudo
 
 - [Arrays](./Arrays/)
 - [Funções](./Functions/)
@@ -25,7 +27,7 @@ Cada diretório contém exemplos práticos e exercícios para auxiliar no aprend
 
 ---
 
-## 📝 2. Conteúdo dos Diretórios
+## Conteúdo dos Diretórios
 
 ### 🔹 Arrays
 Este diretório foca em operações com arrays, incluindo:
