@@ -1,56 +1,52 @@
-# 📂 Algorithms
+# 📘 Algorithms
 
-Repositório dedicado às disciplinas **Algoritmos (PEX1236)** e **Laboratório de Algoritmos (PEX1237)**, ministradas pela professora **Laysa Mabel de Oliveira Fontes**, contendo exemplos e resoluções de listas de exercícios.
+Repositório dedicado às disciplinas **Algoritmos (PEX1236)** e **Laboratório de Algoritmos (PEX1237)**, ministradas pela professora **Laysa Mabel de Oliveira Fontes**, reunindo **exemplos práticos**, **exercícios resolvidos** e **materiais de apoio** desenvolvidos durante o semestre.
+
 
 ![Linguagem](https://img.shields.io/badge/Linguagem-C-blue)
-![Ambiente](https://img.shields.io/badge/Ambiente-VSCode_&_DevC++-blue)
+![Ambientes](https://img.shields.io/badge/Ambientes-VSCode_&_DevC++-blue)
 ![Último commit](https://img.shields.io/github/last-commit/izalouyza/Algorithms)
 
 ---
 
-## Organização do Repositório
-O repositório está organizado em três diretórios principais, cada um abordando conceitos fundamentais da disciplina:
+## 🗂️ Estrutura do Repositório
 
-- **Arrays**: contém exemplos e exercícios relacionados a manipulação de arrays.
-- **Functions**: inclui materiais sobre a criação e uso de funções.
-- **Sequences**: abrange conteúdos referentes a sequências e estruturas de controle.
+O conteúdo está organizado em **três módulos principais**, representando os blocos de aprendizado da disciplina:
 
----
+| Diretório | Descrição |
+|------------|------------|
+| 📁 **Arrays** | Conceitos e práticas envolvendo vetores e manipulação de dados em memória. |
+| 📁 **Functions** | Criação, chamada e utilização de funções para modularizar o código. |
+| 📁 **Sequences** | Estruturas de controle e fluxos de execução (condicionais e laços). |
 
-### Unidades de Estudo
 
-- [Arrays](./Arrays/)
-- [Funções](./Functions/)
-- [Sequências](./Sequences/)
+## 🧩 Unidades de Estudo
 
-Cada diretório contém exemplos práticos e exercícios para auxiliar no aprendizado dos conceitos abordados.
+Cada unidade contém exemplos comentados, atividades propostas e resoluções passo a passo:
 
----
+- [🔸 Arrays](./Arrays/)
+- [🔸 Funções](./Functions/)
+- [🔸 Sequências](./Sequences/)
 
-## Conteúdo dos Diretórios
+## 📖 Conteúdo Detalhado
 
-### 🔹 Arrays
-Este diretório foca em operações com arrays, incluindo:
+### 🔹 **Arrays**
+- Declaração, inicialização e percorrimento de vetores.  
+- Busca e ordenação de elementos.  
+- Algoritmos clássicos aplicados a arrays.  
 
-- Declaração e inicialização de arrays.
-- Acesso e manipulação de elementos.
-- Algoritmos de ordenação e busca aplicados a arrays.
+### 🔹 **Functions**
+- Estrutura e sintaxe de funções em C.  
+- Passagem de parâmetros por valor e por referência.  
+- Modularização e reutilização de código.  
 
-### 🔹 Functions
-Neste diretório, são abordados tópicos relacionados a funções, tais como:
+### 🔹 **Sequences**
+- Estruturas de decisão: `if`, `else`, `switch`.  
+- Estruturas de repetição: `for`, `while`, `do-while`.  
+- Exercícios sobre lógica de controle e iteração.  
 
-- Definição e chamada de funções.
-- Passagem de parâmetros e retorno de valores.
-- Escopo de variáveis e modularização do código.
+## 🧠 Objetivo
 
-### 🔹 Sequences
-O diretório Sequences trata de estruturas de controle e sequências, incluindo:
-
-- Comandos condicionais (if-else, switch).
-- Laços de repetição (for, while, do-while).
-- Manipulação de sequências de dados.
+Este repositório tem como finalidade **facilitar o aprendizado dos fundamentos de programação em C**, fornecendo exemplos claros e bem comentados que ajudam a desenvolver o **raciocínio lógico** e a **resolução de problemas computacionais**.
 
 ---
-
-
-
